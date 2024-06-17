@@ -6,4 +6,9 @@ public class Hello
 		
 		System.out.println("inside hello");
 	}
+	
+	public void greet() 
+	{
+		System.out.println("Hello...Greetings");
+	}
 }
